@@ -1,0 +1,15 @@
+button {
+   background-color: hsl(183, 100%, 15%);
+   border-radius: 5px;
+   border: transparent;
+   color: #fff;
+   font-size: 24px;
+   padding: 0.4rem;
+}
+
+button:hover {
+    background-color: hsl(172, 67%, 45%);
+    color: hsl(183, 100%, 15%);
+    cursor: pointer;
+}
+

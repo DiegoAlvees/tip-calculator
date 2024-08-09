@@ -1,0 +1,12 @@
+input {
+    background-color: hsl(189, 41%, 97%);
+    border: transparent;
+    border-radius: 5px;
+    padding: .4rem;
+    font-size: 24px;
+    text-align: end;
+}
+
+input:hover {
+    border: solid 2px  hsl(172, 67%, 45%);
+}
