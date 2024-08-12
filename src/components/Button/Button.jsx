@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import './button.module.css'
+import './Button.module.css'
 
 Button.propTypes = {
   text: PropTypes.string,

@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import './input.module.css'
+import './Input.module.css'
 
 Input.propTypes = {
   type: PropTypes.string,
